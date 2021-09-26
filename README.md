@@ -10,10 +10,11 @@
     </a>
   </h1>
   <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mukunthan7&count_private=true&theme=radical&hide_border=true&stroke=0000&background=0D1117" widith="460">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukunthan7&show_icons=true&count_private=true&theme=radical&hide_border=true&stroke=0000&background=0D1117" width="460">
+  <a href="#">
+ <img src="https://github-readme-stats.vercel.app/api?username=mukunthan7&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&stroke=0000&bg_color=0D1117" widith="460">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukunthan7&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117" width="460">
   </a>
-  <a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukunthan7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"  width="390">
+  <a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukunthan7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"  width="390">
   </a>
 </p>
   <h2 align='center'>
