@@ -16,8 +16,6 @@
       <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
     </a>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukunthan7&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117" width="460">
-      <a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukunthan7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"  width="390">
-  </a>
     <a href="#">
       <img src="https://metrics.lecoq.io/mukunthan7?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=chartreuse-dark&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta">
     </a>
