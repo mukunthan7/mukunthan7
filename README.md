@@ -9,6 +9,11 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mukunthan7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
   </h1>
+  <p align="center"><b>Visitor's Count</b>
+  </p>
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/%7Bmukunthan7%7D/count.svg" alt="visitor badge"/>
+  </p>
   <p align='center'>
   <a href="#">
       <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
