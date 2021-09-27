@@ -16,7 +16,7 @@
   </p>
   <p align='center'>
   <a href="#">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+      <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif" width="300px">
     </a>
     <a href="#">
  <img src="https://github-readme-stats.vercel.app/api?username=mukunthan7&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&stroke=0000&bg_color=0D1117" widith="460">
