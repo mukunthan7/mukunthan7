@@ -32,7 +32,7 @@
   </h2>
   <p align='center'>
     <a href="#">
-    <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img  src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=Microsoft&logoColor=white">
     <img  src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
     <img  src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
     <img  src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
