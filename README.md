@@ -22,9 +22,9 @@
  <img src="https://github-readme-stats.vercel.app/api?username=mukunthan7&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&stroke=0000&bg_color=0D1117" widith="460">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukunthan7&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117" width="460">
     </a>
-    <a href="#">
-      <img src="https://metrics.lecoq.io/mukunthan7?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=chartreuse-dark&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta">
-    </a>
+<!--    <a href="#">
+      <img src="">
+    </a> -->
 </p>
   <h2 align='center'>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> 
