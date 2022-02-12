@@ -41,7 +41,7 @@
     <a href="#">
       <img
         src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif"
-        width="360"
+        width="460"
       />
     </a>
     <a href="#">
