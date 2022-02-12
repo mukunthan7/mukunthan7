@@ -58,7 +58,7 @@
     </a>
     <a href="#">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukunthan7&layout=compact&theme=chartreuse-dark&show_icons=true&hide_border=true&stroke=0000&bg_color=0D1117"
+        src="https://metrics.lecoq.io/mukunthan7?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta&theme=chartreuse-dark&show_icons=true&hide_border=true&stroke=0000&bg_color=0D1117"
         width="460"
       />
     </a>
