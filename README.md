@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" href="css/main.css" />
-</head>
 <body>
   <h1 align="center">
     <img
@@ -62,6 +59,7 @@
     <a href="#">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukunthan7&layout=compact&theme=chartreuse-dark&show_icons=true&hide_border=true&stroke=0000&bg_color=0D1117"
+        width="460"
       />
     </a>
   </p>
