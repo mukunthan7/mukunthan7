@@ -41,10 +41,8 @@
     <a href="#">
       <img
         src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif"
-        width="360"
+        width="260"
       />
-    </a>
-    <a href="#">
       <img
         src="https://github-readme-stats.vercel.app/api?username=mukunthan7&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&stroke=0000&bg_color=0D1117"
         widith="460"
