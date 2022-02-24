@@ -230,14 +230,17 @@
     />
     <b><i>Connect with me</i></b>
   </h2>
-  <p align="center">
+ <table align="center">
+      <tr>
+        <td>
     <a href="https://wa.me/+919629175812">
       <img
         class="image2"
         src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"
         width="40px"
       />
-      &nbsp;
+      </td>
+      <td>
     </a>
     <a href="https://t.me/MukunthanMass">
       <img
@@ -245,7 +248,8 @@
         src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"
         width="40px"
       />
-      &nbsp;
+      </td>
+      <td>
     </a>
     <a href="mailto:vijimurugesan7@gmail.com">
       <img
@@ -253,20 +257,24 @@
         src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"
         width="40px"
       />
-      &nbsp;
+      </td>
+      <td>
     </a>
     <a href="https://www.facebook.com/mukunthanvisvakarma">
       <img
         src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"
         width="40px"
       />
-      &nbsp;
+      </td>
+      <td>
     </a>
     <a href="https://www.instagram.com/mukunthan7_official">
       <img
         src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"
         width="40px"
       />
+  </td>
     </a>
-  </p>
+    </tr>
+  </table>
 </body>
