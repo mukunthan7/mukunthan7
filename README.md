@@ -177,6 +177,9 @@
       <img
         src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=IPFS&logoColor=white"
       />
+      <img
+        src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"
+      />
     </a>
   </p>
   <h2 class="f3" align="center">
@@ -220,6 +223,12 @@
       />
       <img
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+      />
+      <img 
+        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
       />
     </a>
   </p>
