@@ -1,17 +1,8 @@
 <body>
   <h1 align="center">
-    <img
-      src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-      width="30px"
-    /><b
-      >Hi there<img
-        src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif?raw=true"
-        width="60px"
-      />I'm Mukunthan 👨‍💻</b
-    ><img
-      src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-      width="30px"
-    />
+   <b
+      >👨‍💻 Hi there 🖐️ I'm Mukunthan 👨‍💻</b
+    >
     <img
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     />
@@ -38,6 +29,7 @@
     />
   </p>
   <p align="center">
+    <img src="https://gateway.pinata.cloud/ipfs/Qmc2hnL54zyXTgv91y1Vmps5kCBk81AknsB76YGTmT4kpG" width="500px" />
     <a href="#">
       <img
         src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif"
@@ -54,18 +46,14 @@
         width="460"
       />
     </a>
-    <a href="#">
-    <img src="https://metrics.lecoq.io/mukunthan7?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta" />
-    </a>
+<!--   <a href="#">
+    <img src="https://metrics.lecoq.io/mukunthan7?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-# year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.cat  egories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta" />
+    </a> -->
   </p>
   <h2 align="center">
     <img
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     /><br />
-    <img
-      src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-      width="30px"
-    />
     <b><i>My workspace</i></b>
   </h2>
   <p align="center">
@@ -91,10 +79,6 @@
     <img
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     /><br />
-    <img
-      src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-      width="30px"
-    />
     <b><i>I'm using Technology</i></b>
   </h2>
   <p align="center">
@@ -186,10 +170,6 @@
     <img
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     /><br />
-    <img
-      src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-      width="30px"
-    />
     <b><i>I'm using programming Language</i></b>
   </h2>
   <p align="center">
@@ -237,7 +217,7 @@
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     /><br />
     <img
-      src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"
+      src=""
       width="60"
     />
     <b><i>Connect with me</i></b>
