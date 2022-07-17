@@ -29,7 +29,7 @@
     />
   </p>
   <p align="center">
-    <img src="https://github.com/mukunthan7/mukunthan7/blob/main/assets/mukunthan7.jpg?raw=true" width="510px" />
+    <img src="https://github.com/mukunthan7/mukunthan7/blob/main/assets/mukunthan7.jpg?raw=true" width="900px" />
     <a href="#">
       <img
         src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif"
