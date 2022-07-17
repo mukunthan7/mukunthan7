@@ -29,7 +29,7 @@
     />
   </p>
   <p align="center">
-    <img src="https://gateway.pinata.cloud/ipfs/Qmc2hnL54zyXTgv91y1Vmps5kCBk81AknsB76YGTmT4kpG" width="500px" />
+    <img src="https://github.com/mukunthan7/mukunthan7/blob/main/assets/mukunthan7.jpg?raw=true" width="510px" />
     <a href="#">
       <img
         src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif"
