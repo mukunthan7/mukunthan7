@@ -204,6 +204,9 @@
       <img
         src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
       />
+      <img 
+           src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"
+      />
       <img
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
       />
